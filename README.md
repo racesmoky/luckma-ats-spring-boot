@@ -1,4 +1,4 @@
-# Spring Micro Services Showcase - LuckMa Stock Data 
+# Spring Micro Services Showcase - Stock Data 
 
 [Microservices](https://microservices.io/) is an architectural style that structures an application as a collection of loosely coupled services, where each service implements business capabilities. A microservice runs in its own process and communicates other services via HTTP API. Every microservice can be deployed, upgraded, scaled, and restarted independently of the other services in an application.
 It enables continuous delivery/deployment of large, complex applications. It allows better component isolation and high resilience against component failures. Smaller components in microservices can be scaled easily to meet increasing demand for a specific component. It increases developer independence and allows parallel development across multiple smaller teams.
